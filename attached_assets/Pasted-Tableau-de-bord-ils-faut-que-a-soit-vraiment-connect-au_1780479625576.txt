@@ -1,0 +1,30 @@
+Tableau de bord : ils faut que ça soit vraiment connecté au backend et affiche les informations. Pour la barre en haut qui affiche le raccourci recherche il faut que la recherche marche, le raccourci pour les notifications, thème et profil aussi ça ne marche pas . 
+Il faut que l'histogramme s'affiche aussi sur la page principale (taux occupation par étang). Plus bas , les tâches prioritaire doivent s'afficher. 
+
+Étangs: il faut qu'il soit vraiment connecté et affiche les données du backend actuelle. Les étangs actuel doivent être affiché normalement. Il faut que le bouton nouveau Étang marche et qu'on puisse enregistrer l'étang. 
+
+Opération : enregistrer opération dois marcher il ne marche pas actuellement. Le trie aussi pour l'historique des étangs ne marche pas. En fait rien ne marche dans l'onglet Opération. La dropdow liste des étangs sources et destination n'affiche pas tout les étangs non plus c'est pas normal. 
+
+Qualité de l'eau: rien ne marche
+
+Tâche : rien ne marche. Le bouton nouvelle tâche ne marche pas.
+
+Commande poisson : rien ne marche. Il doit être connecté à la page principale de vente et enregistrer les commandes qui se font là bas instantanément. Pour l'heure ont doit ajouter les nouvelles commandes nous même et il doit être connecté au backend pour afficher les commandes déjà faites.
+
+Commande nourriture : rien ne marche. Supprimer aliment marche mais on peut pas modifier c'est pas normal et on peut pas ajouter un aliment (commande)
+
+Vente: commande poisson et vente font la même chose. Il y a un onglet en plus . On doit fusionner les 2 et faire marcher. 
+
+statistiques : dois afficher les données actuelles.
+
+Alerte : dois afficher les alertes.
+
+Journaux : on doit juste garder informations système et à propos. Le reste n'a pas lieu d'être on doit supprimer.
+
+Utilisateur : on ne peut pas enregistrer le nouvel employé créer. Il doit être connecté au backend pour que ça s'affiche aussi dans le mobile et dans le web. La fonction de recherche aussi doit marcher.
+
+Paramètres : la traduction en anglais doit être parfaite ça ne marche pas.pour l'apparence, le thème sombre et claire ne marchent pas bien il faut que ça soit effectif sur toute les pages du web et ça doit être uniforme pour qu'on puisse bien lire .
+
+Quand lyly se connecte il y a une erreur 404 et seul la page paramètres s'affiche. On doit régler ça. Pareille pour grâce ça ne marche pas.
+
+Il faut que le tout s'afficher selon les droits de chacun. Le superAdmin et le patron (ceux qui auront ce rôle) ont les mêmes droits. Le responsable lui ne peut que voir les informations et ajouter un nouvel utilisateur. Ne peut pas modifier ou supprimer.
